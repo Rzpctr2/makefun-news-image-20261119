@@ -1,0 +1,467 @@
+{
+  "brief": [
+    {
+      "headline": "Senate 56–44: Peltola",
+      "kicker": "ALASKA · U.S.",
+      "n": 14,
+      "place": "ALASKA"
+    },
+    {
+      "headline": "India–Japan 2+2 talks",
+      "kicker": "JAPAN · DEFENCE",
+      "n": 15,
+      "place": "TOKYO"
+    },
+    {
+      "headline": "Danger passed in south",
+      "kicker": "SAUDI ARABIA",
+      "n": 16,
+      "place": "SAUDI"
+    },
+    {
+      "headline": "Cocaine, pills seized",
+      "kicker": "LIBYA",
+      "n": 17,
+      "place": "LIBYA"
+    },
+    {
+      "headline": "Mélenchon could win",
+      "kicker": "FRANCE",
+      "n": 18,
+      "place": "FRANCE"
+    },
+    {
+      "headline": "David Jones axes 1,500",
+      "kicker": "AUSTRALIA · RETAIL",
+      "n": 19,
+      "place": "AUS"
+    },
+    {
+      "headline": "Hoax hits 6,300 schools",
+      "kicker": "ITALY",
+      "n": 20,
+      "place": "ITALY"
+    },
+    {
+      "headline": "Gunman arrested",
+      "kicker": "AUSTRALIA · SYDNEY",
+      "n": 21,
+      "place": "SYDNEY"
+    },
+    {
+      "headline": "Exports jump 20.5%",
+      "kicker": "JAPAN · TRADE",
+      "n": 22,
+      "place": "JAPAN"
+    },
+    {
+      "headline": "Renewables 299.25 GW",
+      "kicker": "INDIA · ENERGY",
+      "n": 23,
+      "place": "INDIA"
+    },
+    {
+      "headline": "Nifty 28,500 up",
+      "kicker": "INDIA · MARKETS",
+      "n": 24,
+      "place": "INDIA"
+    },
+    {
+      "headline": "Dhoni's IPL exit lauded",
+      "kicker": "INDIA · SPORT",
+      "n": 25,
+      "place": "INDIA"
+    },
+    {
+      "headline": "AI 171 probe near end",
+      "kicker": "INDIA · AVIATION",
+      "n": 26,
+      "place": "INDIA"
+    },
+    {
+      "headline": "162.5% duty on scotch",
+      "kicker": "INDIA · TRADE",
+      "n": 27,
+      "place": "INDIA"
+    },
+    {
+      "headline": "Reliance seeks satcom",
+      "kicker": "INDIA · TECH",
+      "n": 28,
+      "place": "INDIA"
+    },
+    {
+      "headline": "Duckett 133 seals win",
+      "kicker": "SPORT · CRICKET",
+      "n": 29,
+      "place": "ENGLAND"
+    },
+    {
+      "headline": "$12bn wind push",
+      "kicker": "MEXICO · ENERGY",
+      "n": 30,
+      "place": "MEXICO"
+    },
+    {
+      "headline": "Netflix tops YouTube",
+      "kicker": "LATIN AMERICA · MEDIA",
+      "n": 31,
+      "place": "LATAM"
+    },
+    {
+      "headline": "Banxico minutes split",
+      "kicker": "MEXICO · RATES",
+      "n": 32,
+      "place": "MEXICO"
+    },
+    {
+      "headline": "Allies back Ukraine",
+      "kicker": "GERMANY · UKRAINE",
+      "n": 33,
+      "place": "BERLIN"
+    }
+  ],
+  "briefTitle": "ALSO ON THURSDAY 19 NOVEMBER",
+  "countLine": "33 STORIES · SIX CONTINENTS",
+  "date": "Thursday 19 November 2026",
+  "dateCheck": "DATE CHECK — Every story above happened or was first reported on Thursday 19 November 2026.",
+  "dateCheck2": "Excluded as earlier news — each was first reported before Thursday, so none is counted among today's 33 stories.",
+  "dateCheck3": "18 NOV: EU's €45bn Ukraine loan · Voyager 1 at one light-day (10:16 GMT Wed) · Iranian drone interceptions ·",
+  "dek": "Three leaders meet in Shenzhen · A court rules on Myanmar · Anthropic's $81.3bn IPO",
+  "footer": "Sources: Reuters · AP · AFP · BBC · The Hindu · IMD · Bloomberg · NASA · Pew · ICJ — Original drawings · THE WORLD IN ONE DAY · PAGE 1",
+  "footer2": "HOW SURE ARE WE? — CONFIRMED: multiple outlets · REPORTED: single source · CLAIM: unverified. ICJ judgment today; 9–6, reparations ordered.",
+  "greyDots": [
+    {
+      "label": "Tokyo",
+      "lat": 35.7,
+      "lon": 139.7
+    },
+    {
+      "label": "Riyadh",
+      "lat": 24.6,
+      "lon": 46.7
+    },
+    {
+      "label": "Tripoli",
+      "lat": 32.9,
+      "lon": 13.2
+    },
+    {
+      "label": "Paris",
+      "lat": 48.85,
+      "lon": 2.35
+    },
+    {
+      "label": "Sydney",
+      "lat": -33.9,
+      "lon": 151.2
+    },
+    {
+      "label": "Rome",
+      "lat": 41.9,
+      "lon": 12.5
+    },
+    {
+      "label": "London",
+      "lat": 51.5,
+      "lon": 0
+    },
+    {
+      "label": "Mexico City",
+      "lat": 19.4,
+      "lon": -99.1
+    },
+    {
+      "label": "Alaska",
+      "lat": 61.2,
+      "lon": -149.9
+    },
+    {
+      "label": "Berlin",
+      "lat": 52.5,
+      "lon": 13.4
+    }
+  ],
+  "grid": [
+    {
+      "dek": "9–6; first state found guilty.",
+      "headline": "World Court: Myanmar committed genocide",
+      "illu": 3,
+      "kicker": "THE HAGUE · ICJ",
+      "n": 4,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "200,000 evacuated; red alert.",
+      "headline": "Cyclone Akvan nears India",
+      "illu": 4,
+      "kicker": "INDIA · WEATHER",
+      "n": 5,
+      "status": "FORECAST"
+    },
+    {
+      "dek": "Settler leaders targeted.",
+      "headline": "Australia sanctions settlers",
+      "illu": 5,
+      "kicker": "AUSTRALIA · WEST BANK",
+      "n": 6,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "Troops mass at the Badme border.",
+      "headline": "Ethiopia, Eritrea mass troops",
+      "illu": 6,
+      "kicker": "HORN OF AFRICA",
+      "n": 7,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "Tanker struck in Black Sea.",
+      "headline": "Gas Husky hit by 4 projectiles",
+      "illu": 7,
+      "kicker": "BLACK SEA · SHIPPING",
+      "n": 8,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "Unemployment climbs again.",
+      "headline": "Australia jobless rate at 4.9%",
+      "illu": 8,
+      "kicker": "AUSTRALIA · JOBS",
+      "n": 9,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "Gaza peace board speaks.",
+      "headline": "Board of Peace faults both",
+      "illu": 10,
+      "kicker": "GAZA · DIPLOMACY",
+      "n": 10,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "Carney shifts on Beijing.",
+      "headline": "Canada rethinks its China ties",
+      "illu": 11,
+      "kicker": "CANADA · CHINA",
+      "n": 11,
+      "status": "CLAIM"
+    },
+    {
+      "dek": "AI threat 'outpacing' US defences.",
+      "headline": "Senators warn AI cyber threat",
+      "illu": 12,
+      "kicker": "U.S. · AI SECURITY",
+      "n": 12,
+      "status": "CLAIM"
+    },
+    {
+      "dek": "Ex-PM's conviction overturned.",
+      "headline": "Court voids Han's 15-year term",
+      "illu": 13,
+      "kicker": "SOUTH KOREA · COURTS",
+      "n": 13,
+      "status": "REPORTED"
+    }
+  ],
+  "gridTitle": "MORE FROM THE DAY",
+  "heroes": [
+    {
+      "dek": "Issued a 'Declaration Towards Peace' — nuclear-risk dialogue, UN reform, oil supplies.",
+      "headline": "Trump, Xi, Putin hold first trilateral talks",
+      "illu": "flags",
+      "kicker": "CHINA · SUMMIT — TOP STORY",
+      "n": 1,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "15.9m pre-orders banked; $79.99 on PS5 and Xbox, no PC yet.",
+      "headline": "GTA VI out now",
+      "illu": "vaporwave",
+      "kicker": "GAMING · GLOBAL",
+      "n": 2,
+      "status": "REPORTED"
+    },
+    {
+      "dek": "Priced at $83, above its range; valued near $1.5tn.",
+      "headline": "Anthropic prices record $81.3bn IPO",
+      "illu": "chart",
+      "kicker": "U.S. · MARKETS",
+      "n": 3,
+      "status": "REPORTED"
+    }
+  ],
+  "mapCaption": "Red numbers mark stories 1–13; grey dots mark the briefs below. Positions are approximate.",
+  "mapTitle": "WHERE IT HAPPENED",
+  "pins": [
+    {
+      "lat": 22.5,
+      "lon": 114.1,
+      "n": 1
+    },
+    {
+      "lat": 25.8,
+      "lon": -80.2,
+      "n": 2
+    },
+    {
+      "lat": 40.7,
+      "lon": -74,
+      "n": 3
+    },
+    {
+      "lat": 52.1,
+      "lon": 4.3,
+      "n": 4
+    },
+    {
+      "lat": 18.5,
+      "lon": 85,
+      "n": 5
+    },
+    {
+      "lat": -35.3,
+      "lon": 149.1,
+      "n": 6
+    },
+    {
+      "lat": 14.7,
+      "lon": 37.9,
+      "n": 7
+    },
+    {
+      "lat": 43,
+      "lon": 28,
+      "n": 8
+    },
+    {
+      "lat": -31.95,
+      "lon": 115.86,
+      "n": 9
+    },
+    {
+      "lat": 31.5,
+      "lon": 34.5,
+      "n": 10
+    },
+    {
+      "lat": 45.4,
+      "lon": -75.7,
+      "n": 11
+    },
+    {
+      "lat": 38.9,
+      "lon": -77,
+      "n": 12
+    },
+    {
+      "lat": 37.5,
+      "lon": 127,
+      "n": 13
+    }
+  ],
+  "regionBar": [
+    {
+      "count": 6,
+      "name": "NORTH AMERICA"
+    },
+    {
+      "count": 1,
+      "name": "SOUTH AMERICA"
+    },
+    {
+      "count": 6,
+      "name": "EUROPE"
+    },
+    {
+      "count": 2,
+      "name": "AFRICA"
+    },
+    {
+      "count": 13,
+      "name": "ASIA"
+    },
+    {
+      "count": 4,
+      "name": "OCEANIA"
+    },
+    {
+      "count": 1,
+      "name": "WORLD"
+    }
+  ],
+  "stats": [
+    {
+      "cap": [
+        "raised by Anthropic —",
+        "the largest IPO on record"
+      ],
+      "label": "IPO",
+      "num": "$81.3BN"
+    },
+    {
+      "cap": [
+        "day-one copies —",
+        "a record game launch"
+      ],
+      "label": "GTA COPIES",
+      "num": "17M"
+    },
+    {
+      "cap": [
+        "flee Cyclone Akvan —",
+        "whole districts emptied"
+      ],
+      "label": "EVACUATED",
+      "num": "200K"
+    },
+    {
+      "cap": [
+        "aid goal CUT from",
+        "COP31 draft"
+      ],
+      "label": "COP31",
+      "num": "$120BN"
+    },
+    {
+      "cap": [
+        "Rohingya fled Myanmar —",
+        "now in Bangladesh camps"
+      ],
+      "label": "FLED",
+      "num": "730K"
+    },
+    {
+      "cap": [
+        "miles from Earth —",
+        "farthest human object"
+      ],
+      "label": "VOYAGER",
+      "num": "16BN"
+    }
+  ],
+  "timeline": [
+    {
+      "label": "GTA VI unlocks in NZ",
+      "time": "00:00"
+    },
+    {
+      "label": "Summit in Shenzhen",
+      "time": "MORNING"
+    },
+    {
+      "label": "ICJ Rohingya ruling",
+      "time": "10:00"
+    },
+    {
+      "label": "Anthropic $81.3bn IPO",
+      "time": "14:30"
+    },
+    {
+      "label": "Akvan nears India",
+      "time": "EVENING"
+    }
+  ],
+  "dateCheck4": "House Democrats' 251–11 Jeffries vote · Pew: Islam largest by 2035 · Xi greets Trump at APEC (eve) ·",
+  "dateCheck5": "16 NOV: first COP31 draft (Mon) · GTA VI pre-orders (banked) · 20 NOV (not yet): COP31 closes · Akvan landfall."
+}
