@@ -1,15 +1,24 @@
-# The World in One Day — 19 November 2026
+# makefun-news-image-20261119
 
-[![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Rzpctr2/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Rzpctr2/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-A one-image summary of the world's news on Thursday, 19 November 2026 — a
-broadsheet front page in a faceted low-poly flat-vector style. 31 stories
-from six continents: one big lead, a co-lead summit story, an 11-story
-numbered grid, and an 18-brief strip, plus a day-wide stat strip, a world
-map pinning the day's eight biggest stories, and a DATE CHECK footer with
-named sources. Every story checked against 19 November 2026 reporting.
+A one-image summary of the world's news on Thursday, 19 November 2026 — a broadsheet front page in a faceted low-poly flat-vector style. 31 stories from six continents: one big lead, a co-lead summit story, an 11-story numbered grid, and an 18-brief strip, plus a day-wide stat strip, a world map pinning the day's eight biggest stories, and a DATE CHECK footer with named sources. Every story checked against 19 November 2026 reporting.
 
 Built for make.fun's [Sum up 19 November's world news in one image](https://make.fun/bounty/news-image-20261119) bounty ($250, 50 places paid).
+
+## Run it
+
+```sh
+node main.ts
+```
+
+`main.ts` is the entrypoint the grader runs: it copies `entry-final-v5.png` to `/output/entry.png` — deterministic, offline, the same bytes on every run.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=svpns4t9&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
 
 ## How it was made
 
@@ -18,9 +27,7 @@ in-session by `generate-final-v5.mjs` (Node + @resvg/resvg-js) from the
 verified news data in `news-v3.json` — the poster is drawn as code (SVG),
 so every headline is sharp and spelled correctly. The lead art is a locked
 flat-vector sunset (`art-final-test.png`, embedded pixel-identical, not
-redrawn). `main.ts` is the entrypoint the grader runs: it copies
-`entry-final-v5.png` to `/output/entry.png` — deterministic, offline, the
-same bytes on every run. `verify-final-v5.mjs` re-checks determinism,
+redrawn). `verify-final-v5.mjs` re-checks determinism,
 truncation, overlap, contrast, and story counts.
 
 ## Stories in the image
