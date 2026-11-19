@@ -22,6 +22,7 @@
 // Bottom target = 1018 GEN (rendered 1002, margin atas 32 / bawah 22).
 // Usage: node generate-final-v8.mjs <news-v8.json> <out.png> [out.svg]
 import { readFileSync, writeFileSync } from "node:fs";
+import { execSync } from "node:child_process";
 import { Resvg } from "@resvg/resvg-js";
 
 const PHI = 1.61803; // golden ratio, 5 digit (Gibran 16:16 WIB)
@@ -877,4 +878,11 @@ if (outSvg) writeFileSync(outSvg, svg);
 const r = new Resvg(svg, { fitTo: { mode: "width", value: 1024 }, font: { loadSystemFonts: true } });
 const png = r.render().asPng();
 writeFileSync(outPng, png);
-console.log(`wrote ${outPng}: ${png.length} bytes (${(png.length / 1024).toFixed(0)} KiB, limit 1024 KiB)`);
+// Post-step (compression practice 19 Nov, NOTES.md §1.0): resvg emits RGBA
+// with 100% opaque alpha — a dead-weight channel. Strip it to RGB + zlib
+// level 9 via PIL. Lossless, pixel-identical (PSNR inf); saves ~10% here
+// (v8 259.766 -> 233.511 B; v5 403 KB -> 313 KB). Deterministic: same SVG
+// input always yields the same bytes, so verify-final-v8 determinism holds.
+execSync(`python3 -c 'from PIL import Image; im = Image.open(${JSON.stringify(outPng)}).convert("RGB"); im.save(${JSON.stringify(outPng)}, optimize=True, compress_level=9)'`, { stdio: "pipe" });
+const pngOpt = readFileSync(outPng);
+console.log(`wrote ${outPng}: ${pngOpt.length} bytes (${(pngOpt.length / 1024).toFixed(0)} KiB, limit 1024 KiB) [RGB+zlib9, was ${png.length}]`);
