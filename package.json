@@ -1,0 +1,1 @@
+{"devDependencies":{"@resvg/resvg-js":"^2.0.0"},"name":"makefun-news-image","private":true,"scripts":{"render":"node generate-final-v5.mjs news-v3.json entry-final-v5.png entry-final-v5.svg","verify":"node verify-final-v5.mjs"},"type":"module"}
