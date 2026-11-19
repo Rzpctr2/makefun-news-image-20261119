@@ -1,0 +1,238 @@
+{
+ "brief": [
+  {
+   "headline": "Peltola wins Alaska; Senate 56–44",
+   "kicker": "ALASKA · U.S.",
+   "n": 14
+  },
+  {
+   "headline": "India, Japan hold 2+2 talks in Tokyo",
+   "kicker": "JAPAN · DEFENCE",
+   "n": 15
+  },
+  {
+   "headline": "Saudi Arabia: danger passed in south",
+   "kicker": "SAUDI ARABIA",
+   "n": 16
+  },
+  {
+   "headline": "Cocaine, pills seized in eastern Libya",
+   "kicker": "LIBYA",
+   "n": 17
+  },
+  {
+   "headline": "France: minister says Mélenchon could win",
+   "kicker": "FRANCE",
+   "n": 18
+  },
+  {
+   "headline": "David Jones cuts 1,500 jobs, 19 stores",
+   "kicker": "AUSTRALIA · RETAIL",
+   "n": 19
+  },
+  {
+   "headline": "Hoax bomb alerts hit 6,300 schools in Italy",
+   "kicker": "ITALY",
+   "n": 20
+  },
+  {
+   "headline": "Sydney gunman arrested after lockdown",
+   "kicker": "AUSTRALIA · SYDNEY",
+   "n": 21
+  },
+  {
+   "headline": "Japan exports jump 20.5%; German morale up",
+   "kicker": "JAPAN · TRADE",
+   "n": 22
+  },
+  {
+   "headline": "India renewable capacity hits 299.25 GW",
+   "kicker": "INDIA · ENERGY",
+   "n": 23
+  },
+  {
+   "headline": "Goldman Sachs lifts India; Nifty 28,500",
+   "kicker": "INDIA · MARKETS",
+   "n": 24
+  },
+  {
+   "headline": "Dhoni's IPL exit draws tributes in India",
+   "kicker": "INDIA · SPORT",
+   "n": 25
+  },
+  {
+   "headline": "AI 171 crash probe report near end",
+   "kicker": "INDIA · AVIATION",
+   "n": 26
+  },
+  {
+   "headline": "India puts 162.5% duty on bulk scotch",
+   "kicker": "INDIA · TRADE",
+   "n": 27
+  },
+  {
+   "headline": "Reliance seeks satellite capacity",
+   "kicker": "INDIA · TECH",
+   "n": 28
+  },
+  {
+   "headline": "Duckett 133 seals England ODI win",
+   "kicker": "SPORT · CRICKET",
+   "n": 29
+  },
+  {
+   "headline": "Mexico plans $12bn wind push; 6.86 GW",
+   "kicker": "MEXICO · ENERGY",
+   "n": 30
+  },
+  {
+   "headline": "Netflix tops YouTube in Latin America",
+   "kicker": "LATIN AMERICA · MEDIA",
+   "n": 31
+  }
+ ],
+ "briefTitle": "ALSO IN THE WORLD",
+ "countLine": "31 STORIES · SIX CONTINENTS",
+ "date": "THURSDAY, 19 NOVEMBER 2026",
+ "footer": "DATE CHECK — All stories verified against 19 Nov 2026 reporting · Sources: Reuters · BBC · Sensor Tower · AP · ICJ",
+ "footer2": "HOW SURE ARE WE? — Every story above was reported on 19 Nov 2026; ICJ delivered its Rohingya judgment today (full text not yet public).",
+ "grid": [
+  {
+   "headline": "ICJ delivers Rohingya ruling",
+   "kicker": "THE HAGUE · ICJ",
+   "n": 3
+  },
+  {
+   "headline": "Cyclone Akvan nears India",
+   "kicker": "INDIA · WEATHER",
+   "n": 4
+  },
+  {
+   "headline": "Australia sanctions settlers",
+   "kicker": "AUSTRALIA · WEST BANK",
+   "n": 5
+  },
+  {
+   "headline": "Ethiopia, Eritrea mass troops",
+   "kicker": "HORN OF AFRICA",
+   "n": 6
+  },
+  {
+   "headline": "Gas Husky hit by 4 projectiles",
+   "kicker": "BLACK SEA · SHIPPING",
+   "n": 7
+  },
+  {
+   "headline": "Australia jobless rate at 4.9%",
+   "kicker": "AUSTRALIA · JOBS",
+   "n": 8
+  },
+  {
+   "headline": "Anthropic's record $81.3bn IPO",
+   "kicker": "U.S. · MARKETS",
+   "n": 9
+  },
+  {
+   "headline": "Board of Peace faults both",
+   "kicker": "GAZA · DIPLOMACY",
+   "n": 10
+  },
+  {
+   "headline": "Canada rethinks its China ties",
+   "kicker": "CANADA · CHINA",
+   "n": 11
+  },
+  {
+   "headline": "Senators warn AI cyber threat",
+   "kicker": "U.S. · AI SECURITY",
+   "n": 12
+  },
+  {
+   "headline": "Court voids Han's 15-year term",
+   "kicker": "SOUTH KOREA · COURTS",
+   "n": 13
+  }
+ ],
+ "gridTitle": "MORE FROM THE DAY",
+ "hero2": {
+  "dek": "No deals announced; nuclear arms top the agenda — Xi calls it 'groundbreaking' · Reuters",
+  "headline": "Trump, Xi, Putin hold first trilateral talks",
+  "kicker": "CHINA · SUMMIT — TOP STORY",
+  "n": 2
+ },
+ "lead": {
+  "dek": "Rolls out worldwide after 13 years — Rockstar's Vice City epic unlocks at midnight.",
+  "headline": "GTA VI",
+  "kicker": "GAMING · GLOBAL — LEAD",
+  "subheadline": "OUT NOW"
+ },
+ "mapTitle": "WHERE IT HAPPENED — THE DAY'S EIGHT BIGGEST STORIES",
+ "pins": [
+  {
+   "lat": 25.8,
+   "lon": -80.2,
+   "n": 1
+  },
+  {
+   "lat": 22.5,
+   "lon": 114.1,
+   "n": 2
+  },
+  {
+   "lat": 52.1,
+   "lon": 4.3,
+   "n": 3
+  },
+  {
+   "lat": 18.5,
+   "lon": 85,
+   "n": 4
+  },
+  {
+   "lat": -35.3,
+   "lon": 149.1,
+   "n": 5
+  },
+  {
+   "lat": 14.7,
+   "lon": 37.9,
+   "n": 6
+  },
+  {
+   "lat": 43,
+   "lon": 28,
+   "n": 7
+  },
+  {
+   "lat": 61.2,
+   "lon": -149.9,
+   "n": 14
+  }
+ ],
+ "stats": [
+  {
+   "label": "GTA COPIES",
+   "num": "17M"
+  },
+  {
+   "label": "PRE-SOLD",
+   "num": "$1.65BN"
+  },
+  {
+   "label": "IPO",
+   "num": "$81.3BN"
+  },
+  {
+   "label": "LEADERS",
+   "num": "3"
+  },
+  {
+   "label": "FLED",
+   "num": "730K"
+  },
+  {
+   "label": "VOYAGER",
+   "num": "16BN"
+  }
+ ]
+}

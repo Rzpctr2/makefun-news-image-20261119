@@ -14,7 +14,7 @@ Built for make.fun's [Sum up 19 November's world news in one image](https://make
 node main.ts
 ```
 
-`main.ts` is the entrypoint the grader runs: it copies `entry-final-v5.png` to `/output/entry.png` — deterministic, offline, the same bytes on every run.
+`main.ts` is the entrypoint the grader runs: it copies `entry-final-v7.png` to `/output/entry.png` — deterministic, offline, the same bytes on every run.
 
 ---
 
@@ -22,12 +22,12 @@ node main.ts
 
 ## How it was made
 
-`entry-final-v5.png` (1024×1024, 393 KiB, under 1 MiB) was rendered
-in-session by `generate-final-v5.mjs` (Node + @resvg/resvg-js) from the
-verified news data in `news-v3.json` — the poster is drawn as code (SVG),
+`entry-final-v7.png` (1024×1024, 396 KiB, under 1 MiB) was rendered
+in-session by `generate-final-v7.mjs` (Node + @resvg/resvg-js) from the
+verified news data in `news-v7.json` — the poster is drawn as code (SVG),
 so every headline is sharp and spelled correctly. The lead art is a locked
 flat-vector sunset (`art-final-test.png`, embedded pixel-identical, not
-redrawn). `verify-final-v5.mjs` re-checks determinism,
+redrawn). `verify-final-v7.mjs` re-checks determinism,
 truncation, overlap, contrast, and story counts.
 
 ## Stories in the image
@@ -35,12 +35,11 @@ truncation, overlap, contrast, and story counts.
 **Lead:** GTA VI — OUT NOW (rolls out worldwide after 13 years).
 **Co-lead:** Trump, Xi, Putin hold first trilateral talks (Shenzhen).
 
-**Numbered grid (#3–#13):** ICJ delivers Rohingya ruling; Cyclone Akvan
-nears India's coast; Australia sanctions settlers; Ethiopia, Eritrea mass
-troops; Gas Husky hit by four projectiles; Australia jobless rate hits
-4.9%; Anthropic prices record $81.3bn IPO; Board of Peace faults both
-sides; Canada rethinks its China ties; Senators warn AI cyber outpacing
-US; Top court voids Han's 15-year term.
+**Numbered grid (#3–#13):** ICJ delivers Rohingya ruling; Cyclone Akvan nears India; Australia
+sanctions settlers; Ethiopia, Eritrea mass troops; Gas Husky hit by 4
+projectiles; Australia jobless rate at 4.9%; Anthropic's record $81.3bn
+IPO; Board of Peace faults both; Canada rethinks its China ties;
+Senators warn AI cyber threat; Court voids Han's 15-year term.
 
 **Brief strip (#14–#31):** Peltola wins Alaska; Senate 56–44 · India,
 Japan hold 2+2 talks in Tokyo · Saudi Arabia: danger passed in south ·
