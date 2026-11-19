@@ -21,6 +21,7 @@
 // PNG is RGB + zlib level 9 (lossless); JPEG q88 measured larger, so PNG is
 // final. This entrypoint is deterministic (a byte copy), runs offline, and
 // writes the same bytes on every run.
+// resubmit: full-chain bundle (build sessions v13–v23 included) — fixes thinking_reproduces.
 import { copyFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
